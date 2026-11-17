@@ -2,7 +2,7 @@ name: docs-ci
 on:
   push:
     branches:
-      - main
+      - master
       - add-docs-portal
     paths:
       - docs/**
